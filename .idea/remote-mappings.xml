@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@0ef0c464-f4e9-4f59-a6db-fe17ffe84e5f" />
+        <remote-mappings server-id="python@sftp://fyt@172.19.82.199:22/home/fyt/miniconda3/envs/nlp/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/storage/czq_bak/T5tutorials" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
